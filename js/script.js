@@ -50,122 +50,122 @@ $(document).ready(function () {
         if (sctop <= 100) {
             $(".logo_svg").css({
                 "transform": "scale(1)",
-                "transition": "all 0.3s ease",
+                "transition": "all 0.8s ease",
             });
         } else if (sctop > 100 && sctop <= 300){
             $(".logo_svg").css({
                 "transform": "scale(1.5)",
-                "transition": "all 0.3s ease",
+                "transition": "all 0.8s ease",
             });
         } else if (sctop > 300 && sctop <= 500){
             $(".logo_svg").css({
                 "transform": "scale(2)",
-                "transition": "all 0.3s ease",
+                "transition": "all 0.8s ease",
             });
         } else if (sctop > 500 && sctop <= 700){
             $(".logo_svg").css({
                 "transform": "scale(2.5)",
-                "transition": "all 0.3s ease",
+                "transition": "all 0.8s ease",
             });
         } else if (sctop > 700 && sctop <= 900){
             $(".logo_svg").css({
                 "transform": "scale(4.5)",
-                "transition": "all 0.3s ease",
+                "transition": "all 0.8s ease",
             });
         } else if (sctop > 900 && sctop <= 1100){
             $(".logo_svg").css({
                 "transform": "scale(6.5)",
-                "transition": "all 0.3s ease",
+                "transition": "all 0.8s ease",
             });
         } else if (sctop > 1100 && sctop <= 1300){
             $(".logo_svg").css({
                 "transform": "scale(8.5)",
-                "transition": "all 0.1s ease",
+                "transition": "all 0.8s ease",
             });
         } else if (sctop > 1300 && sctop <= 1400){
             $(".logo_svg").css({
                 "transform": "scale(11)",
-                "transition": "all 0.15s ease",
+                "transition": "all 0.8s ease",
             });
         } else if (sctop > 1400 && sctop <= 1500){
             $(".logo_svg").css({
                 "transform": "scale(13)",
-                "transition": "all 0.15s ease",
+                "transition": "all 0.8s ease",
             });
         } else if (sctop > 1500 && sctop <= 1600){
             $(".logo_svg").css({
                 "transform": "scale(15)",
-                "transition": "all 0.15s ease",
+                "transition": "all 0.8s ease",
             });
         } else if (sctop > 1600 && sctop <= 1700){
             $(".logo_svg").css({
                 "transform": "scale(20)",
-                "transition": "all 0.15s ease",
+                "transition": "all 0.8s ease",
             });
         } else if (sctop > 1700 && sctop <= 1800){
             $(".logo_svg").css({
                 "transform": "scale(25)",
-                "transition": "all 0.15s ease",
+                "transition": "all 0.8s ease",
             });
         } else if (sctop > 1800 && sctop <= 1900){
             $(".logo_svg").css({
                 "transform": "scale(30)",
-                "transition": "all 0.15s ease",
+                "transition": "all 0.8s ease",
             });
         } else if (sctop > 1900 && sctop <= 2000){
             $(".logo_svg").css({
                 "transform": "scale(35)",
-                "transition": "all 0.15s ease",
+                "transition": "all 0.8s ease",
             });
         } else if (sctop > 2000 && sctop <= 2100){
             $(".logo_svg").css({
                 "transform": "scale(50)",
-                "transition": "all 0.15s ease",
+                "transition": "all 0.8s ease",
             });
         } else if (sctop > 2100 && sctop <= 2200){
             $(".logo_svg").css({
                 "transform": "scale(70)",
-                "transition": "all 0.15s ease",
+                "transition": "all 0.8s ease",
             });
         } else if (sctop > 2200 && sctop <= 2300){
             $(".logo_svg").css({
                 "transform": "scale(95)",
-                "transition": "all 0.15s ease",
+                "transition": "all 0.8s ease",
             });
         } else if (sctop > 2300 && sctop <= 2400){
             $(".logo_svg").css({
                 "transform": "scale(120)",
-                "transition": "all 0.15s ease",
+                "transition": "all 0.8s ease",
             });
         } else if (sctop > 2400 && sctop <= 2500){
             $(".logo_svg").css({
                 "transform": "scale(150)",
-                "transition": "all 0.15s ease",
+                "transition": "all 0.8s ease",
             });
         } else if (sctop > 2500 && sctop <= 2600){
             $(".logo_svg").css({
                 "transform": "scale(180)",
-                "transition": "all 0.15s ease",
+                "transition": "all 0.8s ease",
             });
         } else if (sctop > 2600 && sctop <= 2700){
             $(".logo_svg").css({
                 "transform": "scale(220)",
-                "transition": "all 0.15s ease",
+                "transition": "all 0.8s ease",
             });
         } else if (sctop > 2700 && sctop <= 2800){
             $(".logo_svg").css({
                 "transform": "scale(310)",
-                "transition": "all 0.15s ease",
+                "transition": "all 0.8s ease",
             });
         } else if (sctop > 2800 && sctop <= 2900){
             $(".logo_svg").css({
                 "transform": "scale(340)",
-                "transition": "all 0.15s ease",
+                "transition": "all 0.8s ease",
             });
         } else if (sctop > 2900 && sctop <= 3000){
             $(".logo_svg").css({
                 "transform": "scale(370)",
-                "transition": "all 0.15s ease",
+                "transition": "all 0.8s ease",
             });
         } else if (sctop > 3000 && sctop <= 4500){
             $(".logo_svg").css({
